@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d6cb66ee-1b29-4147-8336-51b9ecee15a1/console.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Bdki/src/main/java/com/microservice/Bdki/Bdki/databses.sql" dialect="GenericSQL" />
+  </component>
+</project>
